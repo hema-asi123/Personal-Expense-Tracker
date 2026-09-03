@@ -1,23 +1,44 @@
-# Personal Expense Tracker
+# 💰 Expense Tracker
 
-A simple command-line Personal Expense Tracker built using Python.
+A simple **Python-based Expense Tracker** that allows users to add and manage their daily expenses.
 
-## Features
+## 📌 Features
 
-- Add expenses
-- Store expense name and amount
-- Display expense details
-- Simple and beginner-friendly Python project
+* Add expense name
+* Enter expense amount
+* Store expense details
+* Display expense information
+* Simple and beginner-friendly Python project
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- Python
+* Python
+* Lists
+* Functions
+* User Input
+* Basic Python Programming
 
-## How to Run
+## ▶️ How to Run
 
-1. Download or clone this repository.
-2. Open the project folder.
-3. Run the following command:
+1. Install Python on your computer.
+2. Download or clone this repository.
+3. Open the project folder in VS Code or another Python editor.
+4. Run the Python file.
+5. Follow the instructions shown in the terminal.
 
-```bash
-python expense_tracker.py
+## 📂 Project Structure
+
+```text
+Expense-Tracker/
+│
+├── expense_tracker.py
+└── README.md
+```
+
+## 🎯 Purpose
+
+This project was created to practice **Python basics, functions, lists, user input, and simple expense management**.
+
+## 👩‍💻 Author
+
+**Hemalatha**
